@@ -1,1 +1,3 @@
-detectCoin_Vision
+# Countingcoin
+
+Project for Al class
